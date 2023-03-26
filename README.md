@@ -1,4 +1,7 @@
 # excel-charts
-visualizing data in excel.
-This is a report for Dunder Mifflin Sales for the year 2021												
+General data analysis using excel.
+# data cleaning
+# data manipulation
+# Data formating
+# Data visualization
 
